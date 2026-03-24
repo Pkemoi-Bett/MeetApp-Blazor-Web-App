@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/priest/Projects/DOTNET /MeetApp/obj/Debug/net8.0/scopedcss/projectbundle/MeetApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/MeetApp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/priest/Projects/DOTNET /MeetApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/priest/Projects/DOTNET /MeetApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/priest/Projects/DOTNET /MeetApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/priest/Projects/DOTNET /MeetApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MeetApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MeetApp.props",
+      "PackagePath": "build\\MeetApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetApp.props",
+      "PackagePath": "buildMultiTargeting\\MeetApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetApp.props",
+      "PackagePath": "buildTransitive\\MeetApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
