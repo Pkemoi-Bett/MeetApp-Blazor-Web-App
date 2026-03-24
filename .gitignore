@@ -1,0 +1,65 @@
+# Build output
+bin/
+obj/
+
+# .NET
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Publish output
+publish/
+**/publish/
+
+# ASP.NET / Blazor
+**/wwwroot/dist/
+**/wwwroot/.vite/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+.env.*
+appsettings.Production.json
+appsettings.Staging.json
+**/secrets.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Visual Studio
+.vs/
+*.rsuser
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
