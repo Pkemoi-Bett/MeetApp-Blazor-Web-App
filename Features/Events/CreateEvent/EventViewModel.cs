@@ -1,5 +1,5 @@
 // Features/Events/CreateEvent/EventViewModel.cs
-using System.ComponentModel.DataAnnotations
+using System.ComponentModel.DataAnnotations;
 
 
 namespace MeetApp.Features.Events.CreateEvent
