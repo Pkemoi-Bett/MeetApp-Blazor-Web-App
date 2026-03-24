@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CL70acP+/xnamXEbvtdKmiBQLTOZiRE4QyyNyeJijWeNGyRaFRiDkDvtNAnoX38t8W+0G3iAggM9SikzNjN5Kg==",
+  "dgSpecHash": "rNM8g1Tov0c=",
   "success": true,
-  "projectFilePath": "/home/priest/Projects/DOTNET /MeetApp/MeetApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\projects\\bett\\MeetApp-Blazor-Web-App\\MeetApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
